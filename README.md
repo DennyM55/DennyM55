@@ -56,7 +56,7 @@ I’m building a focused set of Java backend repositories to demonstrate product
 ### 1) Spring Boot Order Service
 **Repo name:** `springboot-order-service`
 
-- Repository: https://github.com/DennyM55/springboot-order-service
+- Repository: https://github.com/DennyM55/Spring-Boot-Order-Service
 
 A production-style Spring Boot REST API for managing orders, customers, products, and payments.
 
@@ -80,7 +80,7 @@ A production-style Spring Boot REST API for managing orders, customers, products
 ### 2) Microservices E-Commerce Platform
 **Repo name:** `microservices-ecommerce-platform`
 
-- Repository: https://github.com/DennyM55/microservices-ecommerce-platform
+- Repository: https://github.com/DennyM55/Microservices-E-Commerce-Platform
 
 A Spring Boot microservices-based backend platform for e-commerce workflows.
 
@@ -113,7 +113,7 @@ A Spring Boot microservices-based backend platform for e-commerce workflows.
 ### 3) SOAP to REST Modernization Demo
 **Repo name:** `soap-to-rest-modernization-demo`
 
-- Repository: https://github.com/DennyM55/soap-to-rest-modernization-demo
+- Repository: https://github.com/DennyM55/SOAP-to-REST-Modernization-Demo
 
 A Java-based modernization demo showing how legacy SOAP services can be transformed into RESTful APIs.
 
@@ -138,7 +138,7 @@ A Java-based modernization demo showing how legacy SOAP services can be transfor
 ### 4) Secure User Auth Service
 **Repo name:** `secure-user-auth-service`
 
-- Repository: https://github.com/DennyM55/secure-user-auth-service
+- Repository:https://github.com/DennyM55/Secure-User-Auth-Service
 
 A Spring Boot authentication and authorization service with production-style backend security practices.
 
@@ -166,7 +166,7 @@ A Spring Boot authentication and authorization service with production-style bac
 ### 5) Event-Driven Order Processing
 **Repo name:** `event-driven-order-processing`
 
-- Repository: https://github.com/DennyM55/event-driven-order-processing
+- Repository: https://github.com/DennyM55/Event-Driven-Order-Processing
 
 An event-driven Java backend for asynchronous order workflows.
 
