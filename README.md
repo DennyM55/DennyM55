@@ -2,7 +2,7 @@
 
 Senior Java Backend Engineer with 12+ years of software development experience across backend engineering, API integration, enterprise application development, and legacy modernization.
 
-I focus on building scalable backend systems using **Java**, **Spring Boot**, **REST APIs**, **Microservices**, **SQL**, and **Distributed Systems**. My experience spans **banking, insurance, healthcare, enterprise software**, and backend modernization initiatives such as **SOAP to REST migration** and **XML to JSON transformation**.
+I focus on building scalable backend systems using **Java**, **Spring Boot**, **REST APIs**, **Microservices**, **SQL**, and **Distributed Systems**. My experience spans **banking, insurance, healthcare, and enterprise platforms**, with deep exposure to system design, production support, and DevOps workflows.
 
 I’m currently focused on **Senior Java Backend Engineer**, **Backend Platform Engineer**, **API Modernization**, and **Integration Engineering** roles across **Remote** and **Europe-based** teams.
 
@@ -49,10 +49,14 @@ Agile, Scrum, Scrum Ceremonies, Troubleshooting, Production Support, Release Man
 
 I’m building a focused set of Java backend repositories to demonstrate production-style backend engineering, API design, modernization, microservices, security, DevOps, and distributed systems thinking.
 
+> All repository links below use the full GitHub URL format.
+
 ---
 
 ### 1) Spring Boot Order Service
 **Repo name:** `springboot-order-service`
+
+- Repository: https://github.com/DennyM55/springboot-order-service
 
 A production-style Spring Boot REST API for managing orders, customers, products, and payments.
 
@@ -75,6 +79,8 @@ A production-style Spring Boot REST API for managing orders, customers, products
 
 ### 2) Microservices E-Commerce Platform
 **Repo name:** `microservices-ecommerce-platform`
+
+- Repository: https://github.com/DennyM55/microservices-ecommerce-platform
 
 A Spring Boot microservices-based backend platform for e-commerce workflows.
 
@@ -107,6 +113,8 @@ A Spring Boot microservices-based backend platform for e-commerce workflows.
 ### 3) SOAP to REST Modernization Demo
 **Repo name:** `soap-to-rest-modernization-demo`
 
+- Repository: https://github.com/DennyM55/soap-to-rest-modernization-demo
+
 A Java-based modernization demo showing how legacy SOAP services can be transformed into RESTful APIs.
 
 **This project highlights:**
@@ -129,6 +137,8 @@ A Java-based modernization demo showing how legacy SOAP services can be transfor
 
 ### 4) Secure User Auth Service
 **Repo name:** `secure-user-auth-service`
+
+- Repository: https://github.com/DennyM55/secure-user-auth-service
 
 A Spring Boot authentication and authorization service with production-style backend security practices.
 
@@ -156,6 +166,8 @@ A Spring Boot authentication and authorization service with production-style bac
 ### 5) Event-Driven Order Processing
 **Repo name:** `event-driven-order-processing`
 
+- Repository: https://github.com/DennyM55/event-driven-order-processing
+
 An event-driven Java backend for asynchronous order workflows.
 
 **This project highlights:**
@@ -182,6 +194,8 @@ An event-driven Java backend for asynchronous order workflows.
 ### 6) Java DevOps & Observability Demo
 **Repo name:** `java-devops-observability-demo`
 
+- Repository: https://github.com/DennyM55/java-devops-observability-demo
+
 A backend engineering demo focused on Dockerization, CI/CD automation, health monitoring, and deployment readiness.
 
 **This project highlights:**
@@ -205,6 +219,8 @@ A backend engineering demo focused on Dockerization, CI/CD automation, health mo
 
 ### 7) System Design Case Studies (Optional)
 **Repo name:** `system-design-case-studies-java`
+
+- Repository: https://github.com/DennyM55/system-design-case-studies-java
 
 A collection of backend and distributed systems design notes.
 
@@ -254,14 +270,8 @@ Through these repositories, I am intentionally building a portfolio that demonst
 
 ## 📍 Professional Links
 
-- **Portfolio:** [dennymathew.me](https://dennymathew.me/)
-- **LinkedIn:** [linkedin.com/in/dennym-space](https://www.linkedin.com/in/dennym-space/)
-- **GitHub:** [github.com/DennyM55](https://github.com/DennyM55)
-- **Scaler Profile:** [Scaler Profile](https://www.scaler.com/academy/profile/e78bd859848b/)
-- **YouTube:** [youtube.com/@denny-mathew](https://www.youtube.com/@denny-mathew)
-
----
-
-## 🌍 Open To
-
-Remote roles, Europe-based opportunities, backend platform engineering, API modernization, and integration engineering roles.
+- **Portfolio:** https://dennymathew.me/
+- **LinkedIn:** https://www.linkedin.com/in/dennym-space/
+- **GitHub:** https://github.com/DennyM55
+- **Scaler Profile:** https://www.scaler.com/academy/profile/e78bd859848b/
+- **YouTube:** https://www.youtube.com/@denny-mathew
