@@ -82,10 +82,7 @@
 
 <div align="center">
   <a href="https://github.com/DennyM55">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DennyM55&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="175"/>
-  </a>
-  <a href="https://github.com/DennyM55">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DennyM55&theme=tokyonight" alt="Most Committed Languages" height="175"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DennyM55&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="195"/>
   </a>
 </div>
 
