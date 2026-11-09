@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1200 300">
+  <title id="title">Denny Mathew — Senior Software Engineer</title>
+  <desc id="desc">Java backend systems, enterprise integration, and practical AI.</desc>
+  <rect width="1200" height="300" rx="24" fill="#15201b"/>
+  <circle cx="86" cy="74" r="8" fill="#d9f99d"/>
+  <text x="110" y="83" fill="#a8b9aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" letter-spacing="3">ENGINEERING BEHIND THE EXPERIENCE</text>
+  <text x="80" y="165" fill="#f3f1e8" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="700">Denny Mathew</text>
+  <text x="80" y="211" fill="#d9f99d" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="600">Senior Software Engineer · Java Backend</text>
+  <text x="80" y="254" fill="#a8b9aa" font-family="Inter, Arial, sans-serif" font-size="22">Systems, integrations, and practical AI — built with care.</text>
+  <path d="M1035 70h85v85" fill="none" stroke="#6f836f" stroke-width="2"/>
+  <path d="M1077 112h85v85" fill="none" stroke="#d9f99d" stroke-width="2"/>
+  <path d="M1035 197h127" fill="none" stroke="#6f836f" stroke-width="2"/>
+</svg>
